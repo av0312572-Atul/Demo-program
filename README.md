@@ -1,4 +1,4 @@
 # Demo-program
 This is my first Git repository.
 <br>
-Author-Atul Verma 
+Author-Atul patel 
